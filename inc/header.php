@@ -3,6 +3,10 @@
 
 <head>
 	<title>PHP / Apache Testsite</title>
+	<style type="text/css">
+		form ul {margin 0; padding 0;}
+		form li {list-style: none; margin-bottom: 1em;}
+	</style>
 </head>
 
 <body>

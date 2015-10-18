@@ -192,5 +192,7 @@ the method <code>specialchars()</code> convert special characters to HTML entiti
 <a href='another_page.php?message=message%20from%20index%20page'>Link to another page</a>
 
 <h2>$_POST</h2>
+<p>Again let's use the "another page"</p>
+<a href='another_page.php?message=look at the $_POST paragraph'>Link to another page</a>
 
 <?php require 'inc/footer.php'; ?>
